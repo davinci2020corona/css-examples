@@ -1,0 +1,15 @@
+h1 {
+    font-size: 17px;
+}
+
+h1::before {
+    content: '%';
+    color: red;
+}
+
+h1::after {
+    font-size: 300px;
+    content: '*kkk';
+    color: green;
+    
+}

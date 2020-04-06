@@ -1,0 +1,34 @@
+button {
+    background-color: orange;
+    color: #fff;
+    border: 20px solid #00f
+}
+
+button:hover {
+    background-color: yellow;
+}
+
+.text-input {
+    background-color: lightgray;
+    border: green 2px solid;
+}
+
+.text-input:focus {
+    border: 2px solid red;
+}
+
+.list-item:first-child {
+    color: red;
+}
+
+.list-item:last-child(6) {
+    background-color: blue;
+}
+
+.list-item:nth-of-type(3n+1) {
+    background-color: pink;
+}
+
+section p:nth-child(2) {
+    background-color: yellow;
+}

@@ -1,0 +1,46 @@
+.gray {
+    width: 600px;
+    height: 500px;
+    background-color: lightgray;
+}
+
+.orange {
+    width: 300px;
+    height: 200px;
+    background-color: orange;
+}
+
+.dark-gray {
+    width: 300px;
+    height: 200px;
+    background-color: darkgray;
+}
+.relative {
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+.absolute {
+    position: absolute;
+    bottom: 20px;
+    left: 30px;
+   
+}
+.fixed{
+    position: fixed;
+    top: 30px;
+    right:30px;
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    z-index: 10;
+}
+.sticky {
+
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+    position:sticky;
+    top:0;
+
+}

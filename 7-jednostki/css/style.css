@@ -1,0 +1,23 @@
+.container div {
+
+    height:50px;
+    background-color: palegreen;
+    margin-bottom: 20px;
+}
+.container {
+   width:50px;
+   
+    font-size:50px;
+}
+.px {
+
+    width: 400px;
+}
+    .percent {
+width: 50%;
+    }
+.em {
+    width:200px;
+
+}
+

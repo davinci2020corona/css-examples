@@ -1,0 +1,12 @@
+
+
+
+input [name]{
+    background-color: tomato;
+}
+
+
+
+input [type="submit"]{
+   background-color:  yellow;
+}
